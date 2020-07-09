@@ -1,6 +1,10 @@
 # Mansoura.FCIS.Books.Cracker
 This app can be used to create a PDF book from the EXE edition
 
+ُ## 2 Methods of Extraction
+    - Reverse Enginerring
+        - All my tries failed to find the PDF in the Exe Binaries but in Shaa ALLAH, I will
+    - Image Processing => Currently work but need improves
 
 ## First install prerequested packages below:
 
